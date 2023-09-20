@@ -1,5 +1,5 @@
-// testimonial data
-const testimonialData = [
+// blog data
+const blogData = [
   {
     image: '/t-avt-1.png',
     name: 'Anne Smith',
@@ -23,8 +23,8 @@ const testimonialData = [
   },
 ];
 
-const TestimonialSlider = () => {
-  return <div>Testimonial Slider</div>;
+const BlogSlider = () => {
+  return <div>Blog Slider</div>;
 };
 
-export default TestimonialSlider;
+export default BlogSlider;
