@@ -87,8 +87,9 @@ const ParticlesContainer = () => {
           size: {
             random: true,
             value: 5
-          }
-        }
+          },
+        },
+        detectRetina: true,
       }}
     />
   );
