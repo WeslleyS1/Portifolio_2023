@@ -12,7 +12,7 @@ const ProjectsBtn = () => {
     <Link href={'/work'} className='relative w-[185px] h-[148px] flex justify-center items-center
     bg-circleStar bg-cover bg-center bg-no-repeat group'>
       <Image
-      src={'/rounded-text.png'}
+      src={'/rounded-text.png'} // Alterar para o texto correto @TODO
       width={141}
       height={148}
       alt=''
